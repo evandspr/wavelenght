@@ -1,0 +1,5 @@
+{
+  "name": "MindMatch (Wavelength Clone)",
+  "description": "A social deduction game where players try to guess a target position on a spectrum based on a clue. Features AI-powered topics and clues.",
+  "requestFramePermissions": []
+}
